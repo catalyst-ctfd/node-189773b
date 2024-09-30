@@ -1,11 +1,6 @@
-# Start with an incorrect base image
 FROM quay.io/nmalvankar/node-189773b:latest
 
-# Missing WORKDIR setup
-
-
-# Fix the package.json and install dependencies
-
+# Add instructions here
 
 EXPOSE 3000
 
